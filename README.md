@@ -1,4 +1,4 @@
-# Reanimated example
+# Color Swap using React Native Reanimated
 
 <p>
   <!-- iOS -->
@@ -15,7 +15,3 @@
 - Run `yarn` or `npm install`
 - Run `yarn start` or `npm run start` to try it out.
 
-## 📝 Notes
-
-- [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
-# Color-Swap
